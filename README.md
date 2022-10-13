@@ -14,7 +14,7 @@ Se desea implementar una Solución Web para automatizar las demandas de clientes
 	Agregar comentarios en cada paso del proceso.
 	Generar informes sobre ingresos de forma semanal y mensual.
 
-####-  Cliente:
+#### -  Cliente:
 	Tener un formulario donde realizar una demanda.
 	Ver seguimiento del proceso de demanda luego de loguearse.
 	Recibir notificaciones sobre el avance del proceso.
