@@ -29,4 +29,4 @@ Se desea implementar una Solución Web para automatizar las demandas de clientes
 
 
 ## Diagrama de Flujo
-[![Diagrama de Flujos](Diagrama "Diagrama de Flujos")](./imagenes/DiagramaFlujo.png)
+![Diagrama de Flujos](./imagenes/DiagramaFlujo.png)
