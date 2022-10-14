@@ -30,3 +30,7 @@ Se desea implementar una Solución Web para automatizar las demandas de clientes
 
 ## Diagrama de Flujo
 ![Diagrama de Flujos](./imagenes/DiagramaFlujo.png)
+
+## Buyer Persona:
+![Buyer Persona](./imagenes/BuyerPersona.png)
+
