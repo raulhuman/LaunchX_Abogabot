@@ -4,8 +4,8 @@ Se desea implementar una Solución Web para automatizar las demandas de clientes
 
 ### Requerimientos Funcionales
 #### - Administrador:
-	Implementar un Login para registro de usuarios.
-	Tener una bases de datos con registros de usuarios.
+	1. Implementar un Login para registro de usuarios.
+	2. Tener una bases de datos con registros de usuarios.
 	Recibir notificación cuando ingrese una nueva demanda.
 	Visualizar los datos llenados del formulario.
 	Verificar que el pago de transacción ha sido realizada.
@@ -34,3 +34,5 @@ Se desea implementar una Solución Web para automatizar las demandas de clientes
 ## Buyer Persona:
 ![Buyer Persona](./imagenes/BuyerPersona.png)
 
+## Publico Objetivo:
+![Publico Objetivo](./imagenes/PublicoObjetivo.png)
